@@ -1145,9 +1145,10 @@
       },
       {
         "question": "What painting did Melanie show to Caroline on October 13, 2023?",
-        "answer": "A painting inspired by sunsets with a pink sky.",
+        "answer": "A painting inspired by sunsets with a pink sky and an aAn abstract painting with blue streaks",
         "evidence": [
-          "D17:12"
+          "D17:12",
+          "D17:14"
         ],
         "category": 4
       },
