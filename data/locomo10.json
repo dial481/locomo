@@ -1201,9 +1201,11 @@
       },
       {
         "question": "How did Melanie's son handle the accident?",
-        "answer": "He was scared but reassured by his family",
+        "answer": "He was OK",
         "evidence": [
-          "D18:6",
+          "D18:1",
+          "D18:2",
+          "D18:3",
           "D18:7"
         ],
         "category": 4
